@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Arko Dasgupta
-
-**Computer Science & Engineering Undergraduate at Jadavpur University**
+# 👋 Hello, I'm Arko Dasgupta
 
 I am a third-year undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering at Jadavpur University. I like building AI-driven software, with a focus on LLMs and LLM-based API design. I like reading research papers on novel Deep-Learning architectures and their extensions in graph representation learning.
 
