@@ -15,7 +15,7 @@ I am a third-year undergraduate student pursuing a Bachelor's degree in Computer
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkodasgupta0412&show_icons=true&theme=dark&hide_border=true" alt="Arko's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arkodasgupta0412&show_icons=true&theme=dark&hide_border=true" alt="Arko's GitHub Stats" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkodasgupta0412&layout=compact&theme=dark&hide_border=true" alt="Arko's Top Languages" width="48%" />
 </div>
 
