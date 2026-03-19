@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Arko Dasgupta
 
-<!--
-**arkodasgupta0412/arkodasgupta0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Engineering Undergraduate at Jadavpur University**
 
-Here are some ideas to get you started:
+I am a third-year undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering at Jadavpur University. I am deeply passionate about Machine Learning and software development. My focus lies in strengthening my knowledge of core computer science fundamentals while exploring new ideas and tools that push the boundaries of technology. Ultimately, my goal is to contribute to impactful tech innovations and pursue research-driven opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- **LinkedIn:** [arko-dasgupta-402512288](https://www.linkedin.com/in/arko-dasgupta-402512288/)
+- **Email:** [arkodasgupta05@gmail.com](mailto:arkodasgupta05@gmail.com)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkodasgupta0412&show_icons=true&theme=dark&hide_border=true" alt="Arko's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkodasgupta0412&layout=compact&theme=dark&hide_border=true" alt="Arko's Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkodasgupta0412&bg_color=0D1117&color=00e5ff&line=b53494&point=444444&hide_border=true" alt="Arko's Contribution Graph" width="100%" />
+</div>
