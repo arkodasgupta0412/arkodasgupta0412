@@ -14,18 +14,8 @@ I am a third-year undergraduate student pursuing a Bachelor's degree in Computer
 
 ### GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkodasgupta0412&show_icons=true&theme=dracula&hide_border=true" alt="Arko's GitHub Stats" height="165" />
-</div>
+![Arko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkodasgupta0412&show_icons=true&theme=dracula&hide_border=true)
 
-<br>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arkodasgupta0412&bg_color=0D1117&color=00e5ff&line=b53494&point=444444&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkodasgupta0412&bg_color=0D1117&color=00e5ff&line=b53494&point=444444&hide_border=true" alt="Arko's Contribution Graph" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arkodasgupta0412&label=Profile%20Views&color=00e5ff&style=flat" alt="Profile Views" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=arkodasgupta0412&label=Profile%20Views&color=00e5ff&style=flat)
