@@ -11,11 +11,3 @@ I am a third-year undergraduate student pursuing a Bachelor's degree in Computer
 - **Email:** [arkodasgupta05@gmail.com](mailto:arkodasgupta05@gmail.com)
 
 ---
-
-### GitHub Analytics
-
-![Arko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkodasgupta0412&show_icons=true&theme=dracula&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=arkodasgupta0412&bg_color=0D1117&color=00e5ff&line=b53494&point=444444&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=arkodasgupta0412&label=Profile%20Views&color=00e5ff&style=flat)
