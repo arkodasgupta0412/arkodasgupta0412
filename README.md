@@ -6,8 +6,4 @@
 
 I am a third-year undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering at Jadavpur University. I like building AI-driven software, with a focus on Language Models and their API designs. I like reading research papers on novel Deep-Learning architectures.
 
-### Connect with me:
-- **LinkedIn:** [Arko Dasgupta](https://www.linkedin.com/in/arko-dasgupta-402512288/)
-- **Email:** [arkodasgupta05@gmail.com](mailto:arkodasgupta05@gmail.com)
-
 ---
